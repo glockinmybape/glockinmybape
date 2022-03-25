@@ -1,4 +1,4 @@
-[![Header](https://github.com/glockinmybape/glockinmybape/blob/main/assets/qfri9myt6fo.Ai98B.jpg)](https://vk.com/glockinmybape1337)
+[![Header](https://github.com/glockinmybape/glockinmybape/blob/main/assets/qfri9myt6fo.Ai98B.png)](https://vk.com/glockinmybape1337)
 
 ## Tatty Technologies, Inc.
 
@@ -13,8 +13,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=glockinmybape&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=147DDD&stroke=851BDD&currStreakLabel=4012DD)](https://git.io/streak-stats)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=glockinmybape)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glockinmybape&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glockinmybape&show_icons=true)
 
 
 ### Follow Me:
