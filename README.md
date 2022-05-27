@@ -1,5 +1,3 @@
-[![Header]()](https://vk.com/glockinmybape1337)
-
 ## Tatty Technologies, Inc.
 
 ### Languages and Tools:
