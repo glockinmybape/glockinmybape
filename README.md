@@ -1,4 +1,4 @@
-[![Header](https://github.com/glockinmybape/glockinmybape/blob/main/assets/qfri9myt6fo.Ai98B.png)](https://vk.com/glockinmybape1337)
+[![Header]()](https://vk.com/glockinmybape1337)
 
 ## Tatty Technologies, Inc.
 
