@@ -1,19 +1,25 @@
-Custom License
+MIT License
 
 Copyright (c) 2025 ABM Foundation
 
-All rights to this software and related materials are owned by ABM Foundation. The license to use this code is strictly granted by the owners, and only with explicit permission from ABM Foundation.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Users MAY NOT:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-- Use, copy, modify, distribute, transmit, sublicense, or sell this code or any part of it without explicit permission from ABM Foundation.
-- Use this code to create derivative works without explicit permission from ABM Foundation.
-- Distribute this code in any form, including but not limited to public repositories, websites, or software packages.
-- Use this code for commercial purposes without explicit permission.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-This code is provided "as is," without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and noninfringement. By using this code, you agree that ABM Foundation is not liable for any damages or consequences arising from its use.
+For any inquiries or permission requests, please contact ABM Foundation at:
 
-For permission to use, modify, or distribute this code, please contact ABM Foundation at:
-
-[Contact Information]  
 Telegram: [@abm_fund](https://t.me/abm_fund)
