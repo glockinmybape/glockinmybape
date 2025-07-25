@@ -1,7 +1,6 @@
 # ABM Foundation
 
 <div align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="ABM Foundation Logo" width="200"/>
 </div>
 
 ---
