@@ -38,7 +38,7 @@ Stay updated on our latest innovations and updates.
 
 ## **Getting Started**
 
-To get started with **Abavault**, please visit our [website](https://www.abmfoundation.com) for detailed documentation, tutorials, and support.
+To get started with **Abavault**, please visit our [website]() for detailed documentation, tutorials, and support.
 
 ---
 
